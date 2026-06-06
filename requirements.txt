@@ -1,0 +1,9 @@
+streamlit
+pandas
+matplotlib
+faiss-cpu
+sentence-transformers
+transformers
+langchain-community
+langchain-text-splitters
+torch
